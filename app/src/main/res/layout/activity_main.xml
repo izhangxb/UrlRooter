@@ -10,7 +10,20 @@
     tools:context="com.example.carl.urlrooter.MainActivity">
 
     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:text="这是跳转前的activity"/>
+
+    <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="jump"
+        android:id="@+id/button"
+        android:onClick="jump"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="54dp" />
+
+
 </RelativeLayout>

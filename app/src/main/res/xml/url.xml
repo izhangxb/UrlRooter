@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <url>
-    <customerinfo>http://chemao.chemao.com/customerinfo.html</customerinfo>
+    <test>http://www.carl.com/test.html?id=%s</test>
+    <test>http://www.carl.com/test.html</test>
 </url>

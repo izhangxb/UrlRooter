@@ -101,7 +101,7 @@ public class UrlRouter {
     }
 
     public static Intent getIntentByUrl(String _url) {
-        return getIntentByUrl(_url, "车猫认证二手车");
+        return getIntentByUrl(_url, "默认title");
     }
 
     public static boolean resolveUrl(String _url){

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <activity>
-    <com.chemao.cheshang.activitys.customer_manage.CustomerInfoIndexActivity>/customerinfo.html</com.chemao.cheshang.activitys.customer_manage.CustomerInfoIndexActivity>
+    <com.example.carl.urlrooter.TestActivity>/test.htmlid=\d+</com.example.carl.urlrooter.TestActivity>
+    <com.example.carl.urlrooter.TestActivity>/test.html</com.example.carl.urlrooter.TestActivity>
 </activity>
